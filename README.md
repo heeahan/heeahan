@@ -1,4 +1,4 @@
-잘해보자
+At least I am doing something now
 
 <!---
 heeahan/heeahan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
